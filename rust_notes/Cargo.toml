@@ -1,0 +1,6 @@
+[package]
+name = "rust_notes"
+version = "0.1.0"
+authors = ["Darlene Zouras <dzouras@gmail.com>"]
+
+[dependencies]
